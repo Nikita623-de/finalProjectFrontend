@@ -1,0 +1,24 @@
+.players {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+
+.h1 {
+  font-size: 60px;
+  letter-spacing: 1.8px;
+}
+
+.list {
+  padding-top: 30px;
+  margin-left: 120px;
+  width: 570px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px 0;
+}
+
+.player {
+  font-size: 20px;
+}

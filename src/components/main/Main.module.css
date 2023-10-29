@@ -1,0 +1,6 @@
+.main {
+  height: 100%;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
